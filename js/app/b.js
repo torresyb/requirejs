@@ -1,5 +1,6 @@
 /**
- * Created by qianzhangsheng on 14-10-31.
+ * Created b模块
+ * Created by qianzhangsheng
  */
 define(function () {
     return 1;

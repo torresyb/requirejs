@@ -1,5 +1,6 @@
 /**
- * Created by qianzhangsheng on 14-10-31.
+ * Created sub 模块 依赖 sup模块
+ * Created by qianzhangsheng
  */
 define(["sup"], function (sup) {
     var add = function (x, y) {
